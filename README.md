@@ -1,7 +1,7 @@
 ![MechAI](logo.png)
 ---
 
-# Coming soon.........          
+# Coming soon......... [(LINK)](https://anurag-dashore.github.io/MechAI/)         
 ### 5-jul-2026
 
 ---
