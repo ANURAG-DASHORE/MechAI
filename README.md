@@ -1,3 +1,4 @@
+![MechAI](logo.png)
 ---
 
 # Coming soon.........          
