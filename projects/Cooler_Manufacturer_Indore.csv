@@ -1,0 +1,35 @@
+section,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10,col11,col12,col13
+META,Cooler_Manufacturer_Indore,Desert Air Cooler,Discrete/Repetitive,Indore MP,480,16,1,26,80,4,85,21,50
+STATION,1,Front & Tank Fitment,2,177,Operation,Tank Assembly,15
+STATION,2,Pump Fitment,1,53,Operation,Water Pump,0
+STATION,3,Motor & Damper Fitment,1,52,Operation,Electric Motor,0
+STATION,4,Motor Fitment,2,122,Operation,Motor Frame,0
+STATION,5,Frame Fitment,1,112,Operation,Aluminum Frame,0
+STATION,6,Pump & Motor Wiring,1,177,Operation,Wiring Harness,0
+STATION,7,Control Panel Fitment,1,493,Operation,Control Panel,0
+STATION,8,Column Fitment,1,213,Operation,Column Assembly,0
+STATION,9,Tray Fitment,1,152,Operation,Water Tray,0
+STATION,10,Water Distributor Fitment,1,12,Operation,Water Distributor,0
+STATION,11,Pipe Measurement & Cutting,1,27,Operation,Pipe & Fittings,0
+STATION,12,Pipe Attachment,1,16,Operation,Pipe & Fittings,0
+STATION,13,Fan Fitment,2,62,Operation,Fan Blade Assembly,0
+STATION,14,Louvers Fitment,1,253,Operation,Louvers,0
+STATION,15,Side Panel Fitment,2,32,Operation,Side Panels,0
+STATION,16,Back Panel Fitment,1,32,Operation,Back Panel,8
+STATION,17,Lid Fitment,1,10,Operation,Lid,30
+COMPONENT,Tank Assembly,120,192,3,Local Fabricator,Rack-01,10,30
+COMPONENT,Water Pump,420,192,5,CRI Pumps,Bin A-02,5,20
+COMPONENT,Electric Motor,850,192,7,Havells,Bin A-01,5,25
+COMPONENT,Motor Frame,180,192,3,Indore Fabricators,Rack-02,10,40
+COMPONENT,Aluminum Frame,180,192,3,Indore Fabricators,Rack-03,10,40
+COMPONENT,Wiring Harness,95,192,2,Local Vendor,Bin B-01,10,30
+COMPONENT,Control Panel,380,192,10,Electrical Vendor,Bin A-03,4,16
+COMPONENT,Column Assembly,140,192,4,Sheet Metal Shop,Rack-04,10,35
+COMPONENT,Water Tray,55,192,2,Local Fabricator,Rack-05,10,30
+COMPONENT,Water Distributor,25,192,1,Local Vendor,Rack-06,15,40
+COMPONENT,Pipe & Fittings,30,384,1,Hardware Store,Bin C-01,20,60
+COMPONENT,Fan Blade Assembly,110,192,3,Plastika,Bin B-02,8,30
+COMPONENT,Louvers,45,192,2,Local Vendor,Rack-07,10,30
+COMPONENT,Side Panels,40,384,1,Sheet Metal Shop,Rack-08,15,45
+COMPONENT,Back Panel,35,192,1,Sheet Metal Shop,Rack-09,15,40
+COMPONENT,Lid,15,192,1,Local Fabricator,Rack-10,20,50
