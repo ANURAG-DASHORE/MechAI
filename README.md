@@ -1,4 +1,4 @@
-# MechAI — Assembly Line Efficiency Analyzer
+# MechAI — Assembly Line Efficiency
 
 **Lean manufacturing analysis tool for real factory floor data.** Load a project, run a full 12-section analysis — from ASME Flow Process Charts to ML-based bottleneck forecasting — and export a print-ready PDF report.
 
